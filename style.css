@@ -5,7 +5,7 @@
     font-family: 'Uchen', serif;
 }
 .all-content{
-    background-image: url("shop/background2.jpeg");
+    background-image: url("shop/background2.jpg");
     background-size: cover;
 }
 
@@ -1050,7 +1050,7 @@ html{
 
 /* rating */
 #rating{
-    background-image: url(shop/background2.jpeg);
+    background-image: url(shop/background2.jpg);
     background-size: cover;
 }
 #rating h1{
